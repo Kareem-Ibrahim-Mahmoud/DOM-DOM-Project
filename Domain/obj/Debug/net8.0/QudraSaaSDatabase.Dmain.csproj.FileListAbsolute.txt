@@ -1,0 +1,12 @@
+C:\Users\lenovo\Desktop\New folder\cleanarc\cleanarc\bin\Debug\net8.0\QudraSaaSDatabase.Dmain.deps.json
+C:\Users\lenovo\Desktop\New folder\cleanarc\cleanarc\bin\Debug\net8.0\QudraSaaSDatabase.Dmain.dll
+C:\Users\lenovo\Desktop\New folder\cleanarc\cleanarc\bin\Debug\net8.0\QudraSaaSDatabase.Dmain.pdb
+C:\Users\lenovo\Desktop\New folder\cleanarc\cleanarc\obj\Debug\net8.0\QudraSaaSDatabase.Dmain.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\New folder\cleanarc\cleanarc\obj\Debug\net8.0\QudraSaaSDatabase.Dmain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\New folder\cleanarc\cleanarc\obj\Debug\net8.0\QudraSaaSDatabase.Dmain.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\New folder\cleanarc\cleanarc\obj\Debug\net8.0\QudraSaaSDatabase.Dmain.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\New folder\cleanarc\cleanarc\obj\Debug\net8.0\QudraSaaSDatabase.Dmain.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\New folder\cleanarc\cleanarc\obj\Debug\net8.0\QudraSaaSDatabase.Dmain.dll
+C:\Users\lenovo\Desktop\New folder\cleanarc\cleanarc\obj\Debug\net8.0\refint\QudraSaaSDatabase.Dmain.dll
+C:\Users\lenovo\Desktop\New folder\cleanarc\cleanarc\obj\Debug\net8.0\QudraSaaSDatabase.Dmain.pdb
+C:\Users\lenovo\Desktop\New folder\cleanarc\cleanarc\obj\Debug\net8.0\ref\QudraSaaSDatabase.Dmain.dll

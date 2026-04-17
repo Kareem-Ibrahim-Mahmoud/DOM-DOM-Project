@@ -1,0 +1,12 @@
+C:\Users\lenovo\Desktop\New folder\cleanarc\cleanarc\bin\Debug\net8.0\cleanarc.Dmain.deps.json
+C:\Users\lenovo\Desktop\New folder\cleanarc\cleanarc\bin\Debug\net8.0\cleanarc.Dmain.dll
+C:\Users\lenovo\Desktop\New folder\cleanarc\cleanarc\bin\Debug\net8.0\cleanarc.Dmain.pdb
+C:\Users\lenovo\Desktop\New folder\cleanarc\cleanarc\obj\Debug\net8.0\cleanarc.Dmain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\Desktop\New folder\cleanarc\cleanarc\obj\Debug\net8.0\cleanarc.Dmain.AssemblyInfoInputs.cache
+C:\Users\lenovo\Desktop\New folder\cleanarc\cleanarc\obj\Debug\net8.0\cleanarc.Dmain.AssemblyInfo.cs
+C:\Users\lenovo\Desktop\New folder\cleanarc\cleanarc\obj\Debug\net8.0\cleanarc.Dmain.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\New folder\cleanarc\cleanarc\obj\Debug\net8.0\cleanarc.Dmain.dll
+C:\Users\lenovo\Desktop\New folder\cleanarc\cleanarc\obj\Debug\net8.0\refint\cleanarc.Dmain.dll
+C:\Users\lenovo\Desktop\New folder\cleanarc\cleanarc\obj\Debug\net8.0\cleanarc.Dmain.pdb
+C:\Users\lenovo\Desktop\New folder\cleanarc\cleanarc\obj\Debug\net8.0\ref\cleanarc.Dmain.dll
+C:\Users\lenovo\Desktop\New folder\cleanarc\cleanarc\obj\Debug\net8.0\cleanarc.Dmain.csproj.AssemblyReference.cache

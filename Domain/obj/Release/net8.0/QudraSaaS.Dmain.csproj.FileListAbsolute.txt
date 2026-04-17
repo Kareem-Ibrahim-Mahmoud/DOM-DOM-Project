@@ -1,0 +1,15 @@
+D:\C# Project\Qudra SaaS\main\cleanarc\cleanarc\bin\Release\net8.0\QudraSaaS.Dmain.deps.json
+D:\C# Project\Qudra SaaS\main\cleanarc\cleanarc\bin\Release\net8.0\QudraSaaS.Dmain.runtimeconfig.json
+D:\C# Project\Qudra SaaS\main\cleanarc\cleanarc\bin\Release\net8.0\QudraSaaS.Dmain.dll
+D:\C# Project\Qudra SaaS\main\cleanarc\cleanarc\bin\Release\net8.0\QudraSaaS.Dmain.pdb
+D:\C# Project\Qudra SaaS\main\cleanarc\cleanarc\obj\Release\net8.0\QudraSaaS.Dmain.csproj.AssemblyReference.cache
+D:\C# Project\Qudra SaaS\main\cleanarc\cleanarc\obj\Release\net8.0\QudraSaaS.Dmain.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Project\Qudra SaaS\main\cleanarc\cleanarc\obj\Release\net8.0\QudraSaaS.Dmain.AssemblyInfoInputs.cache
+D:\C# Project\Qudra SaaS\main\cleanarc\cleanarc\obj\Release\net8.0\QudraSaaS.Dmain.AssemblyInfo.cs
+D:\C# Project\Qudra SaaS\main\cleanarc\cleanarc\obj\Release\net8.0\QudraSaaS.Dmain.csproj.CoreCompileInputs.cache
+D:\C# Project\Qudra SaaS\main\cleanarc\cleanarc\obj\Release\net8.0\QudraSaaS.Dmain.sourcelink.json
+D:\C# Project\Qudra SaaS\main\cleanarc\cleanarc\obj\Release\net8.0\QudraSaaS.Dmain.dll
+D:\C# Project\Qudra SaaS\main\cleanarc\cleanarc\obj\Release\net8.0\refint\QudraSaaS.Dmain.dll
+D:\C# Project\Qudra SaaS\main\cleanarc\cleanarc\obj\Release\net8.0\QudraSaaS.Dmain.pdb
+D:\C# Project\Qudra SaaS\main\cleanarc\cleanarc\obj\Release\net8.0\QudraSaaS.Dmain.genruntimeconfig.cache
+D:\C# Project\Qudra SaaS\main\cleanarc\cleanarc\obj\Release\net8.0\ref\QudraSaaS.Dmain.dll
