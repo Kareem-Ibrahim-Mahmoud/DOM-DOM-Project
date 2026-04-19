@@ -1,0 +1,14 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace QudraSaaS.Application.DTOs.ServiceTypeDTOs
+{
+    public class GetServiceType
+    {
+        public int id {  get; set; }
+        public string Name { get; set; }
+    }
+}

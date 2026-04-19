@@ -1,0 +1,32 @@
+﻿using QudraSaaS.Dmain;
+using System;
+using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace QudraSaaS.Application.DTOs.SessionDto
+{
+    public class GetSessionDto
+    {
+        public int id { get; set; }
+        public DateTime date { get; set; }
+        public string UserName { get; set; }
+        public int? KmReading { get; set; }// at the time of service
+        public int? NumberOfKilometers { get; set; }// How many kilometers does the oil get you?
+        public bool FilterChanged { get; set; }
+        public bool OilChanged { get; set; }
+        public int? OilId { get; set; }
+        public string? OilType { get; set; }
+        public List<string>? AdditionalServices { get; set; }
+        public int? NextChange { get; set; }//after how many kilometers the next service is due
+        public string? description { get; set; }
+        public double cost { get; set; }
+        public string CarModel { get; set; }
+
+        public string workShopId { get; set; }
+        public string UserId { get; set; }
+        public int carId { get; set; }
+    }
+}
