@@ -1,0 +1,6 @@
+@DOM_DOM_Team_Qudra_Saas_HostAddress = http://localhost:5047
+
+GET {{DOM_DOM_Team_Qudra_Saas_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
